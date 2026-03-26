@@ -30,7 +30,7 @@ app.add_middleware(
         "http://localhost",
         "http://localhost:3000",
         "http://localhost:8080",
-        "https://loan-rate-predictor.onrender.com",  # replace with your Render URL
+        "https://linear-regression-model-app1.onrender.com/",  # replace with your Render URL
     ],
     allow_credentials=True,
     allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
